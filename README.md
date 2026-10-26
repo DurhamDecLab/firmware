@@ -1,3 +1,5 @@
+Late 2026 - I forked this from another user who ALSO forked it from StarLabs, since they have removed all the old AMI BIOS ROMs for Labtop etc. Useful when their buggy Coreboot bricks your machine and you want to flash it back!
+
 # Coreboot Release Notes (All Boards)
 
 Version history below is shared across all supported coreboot boards in this repository, starting from when release notes became unified across boards.
